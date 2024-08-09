@@ -1,0 +1,5 @@
+#Descripción del problema:
+#El acceso a los datos de un proyecto de obra civil en cuanto a sus cantidades se ha restringido únicamente a las personas que tienen un alto manejo de herramientas de modelado y conocimiento de la metodología BIM (Building Information Modeling), lo anterior causa dificultades en la extracción e interpretación de la información para los equipos de contratación, Obra, compras, contraloría y presupuestos. Mediante la ciencia de datos se pretende analizar la información contenida en los modelos 3D de tal manera que se presente la composición y cantidades de cualquier proyecto de forma automática.
+
+#Pregunta SMART:
+#¿Como mejoramos el acceso e interpretación a la información contenida en un Modelo BIM de forma automática y gratuita, reduciendo el tiempo de extracción de cantidades en un 80% y desarrollando una alta precisión, permitiendo consolidar los parámetros de cada elemento en un tablero interactivo y accesible para todos los equipos, reduciendo el costo de la utilización de software avanzado?
